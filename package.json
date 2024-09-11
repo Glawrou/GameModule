@@ -1,6 +1,6 @@
 {
     "name": "com.naa.module",
-    "version": "0.1",
+    "version": "0.1.0",
     "displayName": "Game Modele",
     "description": "This packege for support development",
     "unity": "2022.3",
