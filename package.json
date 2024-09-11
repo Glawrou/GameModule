@@ -1,0 +1,13 @@
+{
+    "name": "com.naa.module",
+    "version": "0.1",
+    "displayName": "Game Modele",
+    "description": "This packege for support development",
+    "unity": "2022.3",
+    "unityRelease": "26f1",
+    "author": {
+      "name": "Unity",
+      "email": "nosov.and1997@gmail.com",
+      "url": "https://nosovaa.pro"
+    }
+  }
